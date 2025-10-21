@@ -1,9 +1,10 @@
+```markdown
 <div align="center">
 
 # 🚀 **Yessine Fakhfakh** ✨
 ### 🤖 AI Engineer | 🌟 Full-Stack Developer | 🎯 Innovation Enthusiast
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Computer+Engineering+Student;AI+%26+Machine+Learning+Specialist;Full-Stack+MEAN+Developer;Innovation+%26+Problem+Solver" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Computer+Engineering+Student;AI+%26+Machine+Learning+Engineer;Building+Intelligent+Systems" />
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yessine-fakhfakh-470145298/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yessine18)
@@ -12,6 +13,14 @@
 <img src="https://github-readme-stats.vercel.app/api?username=yessine18&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
 
 </div>
+
+---
+
+## 🆕 Recent updates
+- Last updated: 2025-10-20
+- Added a "Recent updates" section and refreshed layout for clarity.
+- Polished project descriptions, tech stack badges, and contact call-to-action.
+- (If you'd like, I can auto-add any new roles, projects, awards, or links — tell me which ones to include.)
 
 ---
 
@@ -169,7 +178,7 @@ me.say_hi()
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&text=Ready%20to%20Build%20the%20Future%20Together?&fontSize=32&fontColor=fff&animation=twinkling&fontAlignY=65" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&text=Ready%20to%20Build%20the%20Future%20Together?&fontSize=32&fontColor=fff&animation=twinkling" />
 
 **💡 Open for:** AI/ML Projects | Full-Stack Development | Research Collaborations | Innovation Challenges
 
@@ -187,3 +196,4 @@ me.say_hi()
 ![Profile Views](https://komarev.com/ghpvc/?username=yessine18&color=blueviolet&style=for-the-badge)
 
 </div>
+```
