@@ -37,7 +37,7 @@ Tech highlights
 
 ---
 
-## Compact repo gallery (clean & scannable)
+## Compact repo gallery
 I condensed each repo into a single line: name, one‑line purpose, and primary languages — quick to scan and linkable.
 
 - [n8n-Hybrid-AI-Agent-System](https://github.com/yessine18/n8n-Hybrid-AI-Agent-System) — RAG document processing + SQL-generator agent for n8n workflows · Languages: Python 78.6% · HTML 20.2%  
@@ -54,7 +54,7 @@ If you prefer visual cards instead of lines, I can render a 2‑column grid with
 
 ---
 
-## Featured projects (expanded, one paragraph each)
+## Featured projects
 - n8n-Hybrid-AI-Agent-System — A professional RAG/document-processing stack integrated into n8n workflows. Core features: multi-format ingestion, RAG retrieval, SQL-autogeneration agent, and workflow automation for practical doc QA and data extraction.
 - AI-Receipt-Processing-Automation — Self-hosted pipeline for receipt OCR + LLM parsing. Includes Tesseract preprocessing, LLM parsing (Gemini-compatible patterns), local file storage, PostgreSQL persistence, and bot (Discord/Telegram) for user interactions and retrieval.
 - Energy Consumption Predictor — Production-ready forecasting pipelines using TensorFlow, MLflow for experiment tracking, Kubeflow for orchestration, and a Django + React stack for dashboarding and API exposure.
@@ -81,31 +81,6 @@ If you prefer visual cards instead of lines, I can render a 2‑column grid with
 - Media & content roles at PYANGO, IEEE ENIS, TSYP, ENIS Forum
 
 ---
-
-## Verified Stats (optional auto-fill)
-I can populate verified metrics in this section (Total stars, Commits last year, PRs, Issues, Repos contributed to) using the GitHub API. To fill them automatically I can:
-- Use the gh CLI or GitHub GraphQL with a token you provide (private token only for read access).  
-- Or provide the exact commands so you can run them locally.
-
-Example placeholders (I left these blank so numbers remain accurate):
-- ⭐ Total stars: —  
-- 🔁 Commits (last year): —  
-- 🔀 Pull requests: —  
-- ❗ Issues opened: —  
-- 📦 Repositories contributed to (last year): —
-
----
-
-## How I improved this README (what I changed)
-- Converted long repository descriptions into a compact, scannable gallery for faster reading.
-- Added an expanded “Featured projects” section with one-paragraph highlights for portfolio clarity.
-- Kept tech stack and achievements prominent so recruiters and collaborators can scan skills quickly.
-- Left a Verified Stats section with instructions so metrics can be programmatically inserted (no guessing).
-
----
-
-What I can do next
-- I can generate the compact repo grid with icon badges and last‑commit stamps and either (A) create a PR with this README change or (B) commit directly to main. If you want verified numeric stats included, provide a GitHub token (read-only) or let me run unauthenticated checks and I’ll insert numbers. Tell me which combination you prefer and I’ll apply it.
 
 Connect
 - LinkedIn — https://www.linkedin.com/in/yessine-fakhfakh-470145298/  
