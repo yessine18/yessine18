@@ -18,11 +18,11 @@
 
 ---
 
-**Last updated:** 2026-01-19
+**Last updated:** 2026-04-20
 
 ## About
-- 🔭 **Currently building:** AI-powered energy-consumption forecasting platform with automated MLOps pipelines (training → deployment → monitoring) + Multi-agent medical AI systems
-- 🌱 **Learning:** production RAG systems, AI-Agents orchestration (n8n integrations), document automation, LangChain workflows
+- 🔭 **Currently building:** Outlook → Azure DevOps automation platform with AI-driven triage + RAG auto-resolve, alongside multi-agent medical AI systems
+- 🌱 **Learning:** production RAG systems, enterprise workflow automation, document automation, LangChain workflows
 - 📍 Sfax, Tunisia · 🎓 National Engineering School of Sfax (ENIS)
 
 ## What I build
@@ -33,9 +33,9 @@
 - Full-stack web applications (React, Angular, TypeScript)
 
 ## Tech highlights
-- **Languages & frameworks:** Python · JavaScript · TypeScript · Java · C++ · Angular · React
+- **Languages & frameworks:** Python · JavaScript · TypeScript · Java · C# · C++ · Angular · React · .NET
 - **ML / LLM tools:** TensorFlow · scikit-learn · LangChain · ChromaDB · Tesseract · Neo4j · Groq
-- **Infra & tooling:** Docker · AWS · MLflow · Kubeflow · PostgreSQL · n8n · Playwright
+- **Infra & tooling:** Docker · AWS · Azure DevOps · Microsoft Graph · MLflow · Kubeflow · PostgreSQL · Playwright
 - **AI/Agent orchestration:** LangChain · Groq · RAG pipelines · Multi-agent systems
 
 ---
@@ -44,7 +44,7 @@
 Condensed view: name, one‑line purpose, and primary languages — quick to scan and linkable.
 
 ### 🤖 AI & Machine Learning
-- [**n8n-Hybrid-AI-Agent-System**](https://github.com/yessine18/n8n-Hybrid-AI-Agent-System) — RAG document processing + SQL-generator agent for n8n workflows · *Python 78.6% · HTML 20.2%*
+- [**Outlook-TFS-automation**](https://github.com/yessine18/Outlook-TFS-automation) — .NET + AI automation pipeline that analyzes Outlook support emails, performs RAG-based auto-resolve, and creates Azure DevOps work items · *C# · Python*
 - [**Brain-tumor-Multi-Agent**](https://github.com/yessine18/Brain-tumor-Multi-Agent) — Multi-agent medical AI system: VGG19 classifier + Neo4j knowledge graph + Grad-CAM visualization · *Python 100%*
 - [**Chatbot-RAG**](https://github.com/yessine18/Chatbot-RAG) — RAG chatbot with PostgreSQL vector search for university enrollment Q&A · *Jupyter Notebook · Python*
 - [**AI-Receipt-Processing-Automation**](https://github.com/yessine18/AI-Receipt-Processing-Automation) — Self-hosted receipt OCR + LLM parsing, DB & bot integration · *Python 60.4% · JavaScript 39.6%*
@@ -52,9 +52,11 @@ Condensed view: name, one‑line purpose, and primary languages — quick to sca
 - [**ML-Analyse-de-Churn**](https://github.com/yessine18/ML-Analyse-de-Churn) — Churn analysis experiments and dashboards · *HTML 44.5% · Python 31.7% · CSS 23.8%*
 
 ### 🌐 Full-Stack Web Development
+- [**adaptive-backend**](https://github.com/yessine18/adaptive-backend) — Node.js backend service for adaptive web platform workflows · *JavaScript*
 - [**yessine-portfolio**](https://github.com/yessine18/yessine-portfolio) — Personal portfolio site (live) · *HTML 48.3% · CSS 43.4% · JavaScript 8.3%* · [Live](https://yessine18.github.io/yessine-portfolio)
 - [**TecWeek**](https://github.com/yessine18/TecWeek) — Event website for IEEE engineering congress · *TypeScript 84% · CSS 12.8%*
 - [**Angular**](https://github.com/yessine18/Angular) — Angular full-stack application with backend integration · *TypeScript*
+- [**Spring**](https://github.com/yessine18/Spring) — Java Spring microservices workspace (gateway, registry, and domain services) · *Java*
 - [**PHP-project**](https://github.com/yessine18/PHP-project) — Web project in PHP · *PHP 57% · CSS 27.6% · Hack 12.7%*
 
 ### 🧪 Testing & Quality Assurance
@@ -65,6 +67,7 @@ Condensed view: name, one‑line purpose, and primary languages — quick to sca
 
 ### 📖 Learning & Exercises
 - [**skills-introduction-to-github**](https://github.com/yessine18/skills-introduction-to-github) — GitHub learning exercises
+- [**yessine18.github.io**](https://github.com/yessine18/yessine18.github.io) — GitHub Pages profile website repository
 - [**yessine18**](https://github.com/yessine18/yessine18) — Profile README & portfolio hub (this repo)
 
 ---
@@ -78,12 +81,12 @@ A production-grade multi-agent AI system for medical imaging analysis:
 - **Agent 3:** LLM-powered comprehensive report generation (Groq/Llama)
 - **Stack:** Python, TensorFlow, Neo4j, LangChain, Groq API
 
-### 🔧 n8n-Hybrid-AI-Agent-System
-Professional RAG/document-processing stack integrated into n8n workflows:
-- Multi-format document ingestion (PDF, DOCX, TXT, CSV)
-- RAG retrieval with ChromaDB vector store
-- SQL-autogeneration agent for database queries
-- Workflow automation and API endpoints
+### 📧 Outlook-TFS-automation
+Enterprise automation stack that converts support emails into trackable DevOps workflows:
+- Outlook mailbox polling with Microsoft Graph API
+- LLM extraction for severity, intent, and routing context
+- RAG retrieval from Microsoft documentation using PostgreSQL pgvector
+- Azure DevOps issue creation + automated reply/notification flows
 
 ### 🧾 AI-Receipt-Processing-Automation
 Self-hosted pipeline for intelligent receipt processing:
@@ -92,12 +95,12 @@ Self-hosted pipeline for intelligent receipt processing:
 - Local file storage + PostgreSQL database
 - RESTful API + Telegram bot integration
 
-### ⚡ Energy Consumption Predictor
-Production-ready forecasting pipelines with complete MLOps:
-- TensorFlow model training and evaluation
-- MLflow for experiment tracking & model registry
-- Kubeflow for orchestration and pipeline automation
-- Django + React dashboard for visualization
+### 🌐 Adaptive Web Stack
+Backend and web engineering projects focused on scalable service architecture:
+- Node.js backend workflows for adaptive platform logic
+- Spring microservice architecture experiments (gateway + service registry)
+- Portfolio and GitHub Pages deployment pipelines
+- Frontend/backend integration patterns across React, Angular, and Java services
 
 ### 🛰️ TerraNova 2056
 Satellite imagery analytics combined with IoT sensor data:
@@ -115,6 +118,7 @@ Satellite imagery analytics combined with IoT sensor data:
 <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
 <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
 
 ### AI/ML & Data Science
@@ -135,6 +139,8 @@ Satellite imagery analytics combined with IoT sensor data:
 <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
 <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
 <img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white" />
+<img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+<img src="https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white" />
 
 </div>
 
