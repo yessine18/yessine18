@@ -6,12 +6,6 @@
 [![Email](https://img.shields.io/badge/Email-0B1120?style=for-the-badge&logo=gmail&logoColor=00D9FF)](mailto:yessine.fakhfakh@enis.tn)
 [![Portfolio](https://img.shields.io/badge/Portfolio-0B1120?style=for-the-badge&logo=readdotcv&logoColor=00D9FF)](https://yessine18.github.io/yessine-portfolio)
 
-</div>
-
-<img src="https://github-readme-stats.vercel.app/api?username=yessine18&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
-
-</div>
-
 > **Last updated:** 2026-06-30
 
 ---
