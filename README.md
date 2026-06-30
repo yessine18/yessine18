@@ -202,11 +202,6 @@ Satellite imagery analytics combined with IoT sensor data.
 
 </div>
 
- Snake animation: add this once you've set up the GitHub Action at
-     https://github.com/Platane/snk to generate the contribution snake SVG,
-     then point this img to your generated asset (commonly hosted on the
-     `output` branch of this repo). -->
-
 <div align="center">
   <img src="https://raw.githubusercontent.com/yessine18/yessine18/output/github-contribution-grid-snake.svg" alt="Contribution Snake" />
 </div>
