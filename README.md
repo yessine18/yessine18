@@ -1,16 +1,12 @@
-# 🚀 Yessine Fakhfakh — Agentic AI Engineer
+# Yessine Fakhfakh
 
-<div align="center">
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=21&duration=3000&pause=1200&color=00D9FF&center=true&vCenter=true&width=820&lines=Agentic+AI+Engineer;Enterprise+AI+%26+Microsoft+Ecosystem;RAG+%7C+Multi-Agent+Systems+%7C+Knowledge+Graphs;Building+Production-Grade+Intelligent+Workflows" alt="Typing banner" />
 
-<img src="https://readme-typing-svg.herokuapp.com/api?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=820&lines=Agentic+AI+Engineer;Enterprise+AI+%26+Microsoft+Ecosystem;LLMs+%E2%80%A2+RAG+%E2%80%A2+LangGraph+%E2%80%A2+Knowledge+Graphs;Building+Autonomous+Systems+for+Real+Businesses" alt="Typing SVG" />
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0B1120?style=for-the-badge&logo=linkedin&logoColor=00D9FF)](https://www.linkedin.com/in/yessine-fakhfakh-470145298/)
+[![Email](https://img.shields.io/badge/Email-0B1120?style=for-the-badge&logo=gmail&logoColor=00D9FF)](mailto:yessine.fakhfakh@enis.tn)
+[![Portfolio](https://img.shields.io/badge/Portfolio-0B1120?style=for-the-badge&logo=readdotcv&logoColor=00D9FF)](https://yessine18.github.io/yessine-portfolio)
 
-<br/>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yessine-fakhfakh-470145298/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yessine.fakhfakh@enis.tn)
-[![Portfolio](https://img.shields.io/badge/Portfolio-live-00D4FF?style=for-the-badge&logo=read-the-docs&logoColor=white)](https://yessine18.github.io/yessine-portfolio)
-
-<br/>
+</div>
 
 <img src="https://github-readme-stats.vercel.app/api?username=yessine18&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
 
@@ -205,21 +201,18 @@ Satellite imagery analytics combined with IoT sensor data.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yessine18&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" />
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=yessine18&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=yessine18&theme=tokyo-night&hide_border=true&bg_color=0D1117" alt="Contribution Graph" />
 
-<img src="https://github-profile-trophy.vercel.app/?username=yessine18&theme=tokyonight&no-frame=true&row=1&column=6" alt="GitHub Trophies" />
-
 </div>
 
-<!-- Snake animation: add this once you've set up the GitHub Action at
+ Snake animation: add this once you've set up the GitHub Action at
      https://github.com/Platane/snk to generate the contribution snake SVG,
      then point this img to your generated asset (commonly hosted on the
      `output` branch of this repo). -->
-<!--
+
 <div align="center">
   <img src="https://raw.githubusercontent.com/yessine18/yessine18/output/github-contribution-grid-snake.svg" alt="Contribution Snake" />
 </div>
@@ -241,17 +234,14 @@ Satellite imagery analytics combined with IoT sensor data.
 
 ## 📫 Connect
 
-- **LinkedIn:** [Yessine Fakhfakh](https://www.linkedin.com/in/yessine-fakhfakh-470145298/)
-- **Email:** yessine.fakhfakh@enis.tn
-- **Portfolio:** [yessine18.github.io/yessine-portfolio](https://yessine18.github.io/yessine-portfolio)
-
----
-
 <div align="center">
 
-*"Building intelligent systems that solve real business problems."*
-— Yessine Fakhfakh
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0B1120?style=for-the-badge&logo=linkedin&logoColor=00D9FF)](https://www.linkedin.com/in/yessine-fakhfakh-470145298/)
+[![Email](https://img.shields.io/badge/Email-0B1120?style=for-the-badge&logo=gmail&logoColor=00D9FF)](mailto:yessine.fakhfakh@enis.tn)
+[![Portfolio](https://img.shields.io/badge/Portfolio-0B1120?style=for-the-badge&logo=readdotcv&logoColor=00D9FF)](https://yessine18.github.io/yessine-portfolio)
 
-![Profile Views](https://komarev.com/ghpvc/?username=yessine18&color=00D4FF&style=flat-square)
+*"Building intelligent systems that solve real business problems."*
+
+![Profile Views](https://komarev.com/ghpvc/?username=yessine18&color=00D9FF&style=flat-square&label=Profile+Views)
 
 </div>
