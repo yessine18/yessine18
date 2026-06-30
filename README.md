@@ -205,7 +205,6 @@ Satellite imagery analytics combined with IoT sensor data.
 <div align="center">
   <img src="https://raw.githubusercontent.com/yessine18/yessine18/output/github-contribution-grid-snake.svg" alt="Contribution Snake" />
 </div>
--->
 
 ---
 
