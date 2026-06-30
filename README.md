@@ -1,14 +1,14 @@
-# 🚀 Yessine Fakhfakh — AI Engineer & Full‑Stack Developer
+# 🚀 Yessine Fakhfakh — Agentic AI Engineer
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com/api?font=Fira+Code&size=24&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=760&lines=Computer+Engineering+Student;AI+%26+Machine+Learning+Engineer;Full-Stack+Developer;RAG+%26+Multi-Agent+Systems" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com/api?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=820&lines=Agentic+AI+Engineer;Enterprise+AI+%26+Microsoft+Ecosystem;LLMs+%E2%80%A2+RAG+%E2%80%A2+LangGraph+%E2%80%A2+Knowledge+Graphs;Building+Autonomous+Systems+for+Real+Businesses" alt="Typing SVG" />
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yessine-fakhfakh-470145298/) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yessine-fakhfakh-470145298/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yessine.fakhfakh@enis.tn)
-[![Website](https://img.shields.io/badge/Portfolio-live-00D4FF?style=for-the-badge&logo=read-the-docs&logoColor=white)](https://yessine18.github.io/yessine-portfolio)
+[![Portfolio](https://img.shields.io/badge/Portfolio-live-00D4FF?style=for-the-badge&logo=read-the-docs&logoColor=white)](https://yessine18.github.io/yessine-portfolio)
 
 <br/>
 
@@ -16,35 +16,71 @@
 
 </div>
 
+> **Last updated:** 2026-06-30
+
 ---
 
-**Last updated:** 2026-04-20
+## 🏅 Microsoft Credentials
 
-## About
-- 🔭 **Currently building:** Outlook → Azure DevOps automation platform with AI-driven triage + RAG auto-resolve, alongside multi-agent medical AI systems
-- 🌱 **Learning:** production RAG systems, enterprise workflow automation, document automation, LangChain workflows
-- 📍 Sfax, Tunisia · 🎓 National Engineering School of Sfax (ENIS)
+- ✔ **Microsoft Certified — Agentic AI Business Solutions Architect (AB‑100)**
+- ✔ **Microsoft Applied Skills — Get started with identities and access using Microsoft Entra**
 
-## What I build
-- End-to-end machine learning systems (data → model → production)
-- Multi-agent AI systems with RAG & LLM orchestration
-- Hybrid AI agent workflows (RAG + n8n + knowledge graphs)
-- Self-hosted automation & OCR solutions for real-world use
-- Full-stack web applications (React, Angular, TypeScript)
+---
 
-## Tech highlights
-- **Languages & frameworks:** Python · JavaScript · TypeScript · Java · C# · C++ · Angular · React · .NET
-- **ML / LLM tools:** TensorFlow · scikit-learn · LangChain · ChromaDB · Tesseract · Neo4j · Groq
-- **Infra & tooling:** Docker · AWS · Azure DevOps · Microsoft Graph · MLflow · Kubeflow · PostgreSQL · Playwright
-- **AI/Agent orchestration:** LangChain · Groq · RAG pipelines · Multi-agent systems
+## 👋 About Me
+
+I'm a Software Engineer building **enterprise-grade, autonomous AI systems** — the kind that sit inside real business workflows, not just demos.
+
+My work centers on:
+- Agentic AI & multi-agent orchestration (LangGraph, LangChain)
+- Enterprise RAG & GraphRAG pipelines
+- Knowledge graphs (Neo4j) for grounded, explainable AI
+- Microsoft Graph API, Microsoft Entra, Azure DevOps automation
+- Workflow automation (n8n, FastAPI) and AI architecture design
+
+I enjoy turning messy, manual business processes into intelligent, autonomous systems — and I'm currently deepening my focus on production-grade agentic platforms across the Microsoft ecosystem.
+
+📍 Sfax, Tunisia · 🎓 National Engineering School of Sfax (ENIS)
+
+---
+
+## 🧩 What I Build
+- End-to-end AI systems: data → model/agent → production
+- Multi-agent AI systems with RAG, LLM orchestration & knowledge graphs
+- Hybrid agent workflows (RAG + n8n + Neo4j)
+- Microsoft-ecosystem automation (Outlook, Graph API, Entra, Azure DevOps)
+- Full-stack applications to ship and support the above (React, Angular, .NET)
+
+---
+
+## 🏗️ Example System Architecture
+
+```mermaid
+flowchart LR
+    A[Outlook Inbox] --> B[Microsoft Graph API]
+    B --> C[LLM Triage Agent]
+    C --> D[GraphRAG Retrieval]
+    D --> E[(Neo4j Knowledge Graph)]
+    C --> F[Azure DevOps Work Item]
+    F --> G[Automated Reply / Teams Notification]
+```
+
+```mermaid
+flowchart LR
+    U[User Request] --> O[LangGraph Orchestrator]
+    O --> R[Retrieval Agent]
+    R --> K[(Knowledge Graph)]
+    O --> L[LLM Reasoning Agent]
+    L --> A[Action Agent]
+    A --> S[Azure DevOps / API / DB]
+```
 
 ---
 
 ## 📚 Repository Gallery
-Condensed view: name, one‑line purpose, and primary languages — quick to scan and linkable.
 
-### 🤖 AI & Machine Learning
-- [**Outlook-TFS-automation**](https://github.com/yessine18/Outlook-TFS-automation) — .NET + AI automation pipeline that analyzes Outlook support emails, performs RAG-based auto-resolve, and creates Azure DevOps work items · *C# · Python*
+### 🤖 AI & Agentic Systems
+- [**Outlook-TFS-automation**](https://github.com/yessine18/Outlook-TFS-automation) — .NET + AI pipeline analyzing Outlook support emails, performing RAG-based auto-resolve, and creating Azure DevOps work items · *C# · Python*
 - [**Brain-tumor-Multi-Agent**](https://github.com/yessine18/Brain-tumor-Multi-Agent) — Multi-agent medical AI system: VGG19 classifier + Neo4j knowledge graph + Grad-CAM visualization · *Python 100%*
 - [**Chatbot-RAG**](https://github.com/yessine18/Chatbot-RAG) — RAG chatbot with PostgreSQL vector search for university enrollment Q&A · *Jupyter Notebook · Python*
 - [**AI-Receipt-Processing-Automation**](https://github.com/yessine18/AI-Receipt-Processing-Automation) — Self-hosted receipt OCR + LLM parsing, DB & bot integration · *Python 60.4% · JavaScript 39.6%*
@@ -60,12 +96,12 @@ Condensed view: name, one‑line purpose, and primary languages — quick to sca
 - [**PHP-project**](https://github.com/yessine18/PHP-project) — Web project in PHP · *PHP 57% · CSS 27.6% · Hack 12.7%*
 
 ### 🧪 Testing & Quality Assurance
-- [**PlayWright-test**](https://github.com/yessine18/PlayWright-test) — Comprehensive Playwright E2E testing suite: smoke tests, integration, visual regression, a11y checks · *JavaScript*
+- [**PlayWright-test**](https://github.com/yessine18/PlayWright-test) — Comprehensive Playwright E2E testing suite: smoke, integration, visual regression, a11y checks · *JavaScript*
 
 ### 🛰️ IoT & Environmental Monitoring
 - [**TerraNova-2056**](https://github.com/yessine18/TerraNova-2056) — Satellite imagery & CanSat research for environmental monitoring with NDVI analysis
 
-### 📖 Learning & Exercises
+### 📖 Learning & Profile
 - [**skills-introduction-to-github**](https://github.com/yessine18/skills-introduction-to-github) — GitHub learning exercises
 - [**yessine18.github.io**](https://github.com/yessine18/yessine18.github.io) — GitHub Pages profile website repository
 - [**yessine18**](https://github.com/yessine18/yessine18) — Profile README & portfolio hub (this repo)
@@ -75,88 +111,137 @@ Condensed view: name, one‑line purpose, and primary languages — quick to sca
 ## 🌟 Featured Projects
 
 ### 🧠 Brain-tumor-Multi-Agent
-A production-grade multi-agent AI system for medical imaging analysis:
+A production-grade multi-agent AI system for medical imaging analysis.
+`Python` `TensorFlow` `Neo4j` `LangChain` `Groq`
 - **Agent 1:** VGG19-based binary classifier with Grad-CAM explainability
 - **Agent 2:** Neo4j knowledge graph integration for medical context
 - **Agent 3:** LLM-powered comprehensive report generation (Groq/Llama)
-- **Stack:** Python, TensorFlow, Neo4j, LangChain, Groq API
 
 ### 📧 Outlook-TFS-automation
-Enterprise automation stack that converts support emails into trackable DevOps workflows:
+Enterprise automation stack that converts support emails into trackable DevOps workflows.
+`C#` `Python` `Microsoft Graph` `Azure DevOps` `pgvector`
 - Outlook mailbox polling with Microsoft Graph API
 - LLM extraction for severity, intent, and routing context
 - RAG retrieval from Microsoft documentation using PostgreSQL pgvector
 - Azure DevOps issue creation + automated reply/notification flows
 
 ### 🧾 AI-Receipt-Processing-Automation
-Self-hosted pipeline for intelligent receipt processing:
+Self-hosted pipeline for intelligent receipt processing.
+`Python` `Tesseract OCR` `PostgreSQL` `Telegram Bot`
 - Tesseract OCR preprocessing with image enhancement
 - LLM parsing (Gemini-compatible patterns)
 - Local file storage + PostgreSQL database
 - RESTful API + Telegram bot integration
 
 ### 🌐 Adaptive Web Stack
-Backend and web engineering projects focused on scalable service architecture:
+Backend and web engineering projects focused on scalable service architecture.
+`Node.js` `Spring` `React` `Angular`
 - Node.js backend workflows for adaptive platform logic
 - Spring microservice architecture experiments (gateway + service registry)
-- Portfolio and GitHub Pages deployment pipelines
 - Frontend/backend integration patterns across React, Angular, and Java services
 
 ### 🛰️ TerraNova 2056
-Satellite imagery analytics combined with IoT sensor data:
+Satellite imagery analytics combined with IoT sensor data.
+`NDVI` `CanSat` `Environmental Monitoring`
 - NDVI & environmental indices computation
 - CanSat data integration for smart-city prototypes
-- Environmental monitoring and analysis tools
 
 ---
 
 ## 🛠️ Skills & Technologies
-<div align="center">
 
-### Languages
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
-<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+**AI / Agentic**
+<br/>
+<img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logoColor=white" />
+<img src="https://img.shields.io/badge/LangChain-111827?style=flat-square&logo=langchain&logoColor=white" />
+<img src="https://img.shields.io/badge/Groq-000000?style=flat-square&logo=groq&logoColor=white" />
+<img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" />
+<img src="https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logoColor=white" />
 
-### AI/ML & Data Science
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-<img src="https://img.shields.io/badge/LangChain-111827?style=for-the-badge&logo=langchain&logoColor=white" />
-<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-<img src="https://img.shields.io/badge/Groq-000000?style=for-the-badge&logo=groq&logoColor=white" />
-<img src="https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white" />
+**Microsoft Ecosystem**
+<br/>
+<img src="https://img.shields.io/badge/Microsoft_Graph-0078D4?style=flat-square&logo=microsoft&logoColor=white" />
+<img src="https://img.shields.io/badge/Microsoft_Entra-0078D4?style=flat-square&logo=microsoft&logoColor=white" />
+<img src="https://img.shields.io/badge/Azure_DevOps-0078D7?style=flat-square&logo=azuredevops&logoColor=white" />
+<img src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white" />
 
-### Frontend & Backend
-<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-<img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
-<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
-<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
+**Databases & Knowledge**
+<br/>
+<img src="https://img.shields.io/badge/Neo4j-008CC1?style=flat-square&logo=neo4j&logoColor=white" />
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
 
-### DevOps & Tools
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
-<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-<img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white" />
-<img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
-<img src="https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white" />
+**Automation**
+<br/>
+<img src="https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white" />
+<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
 
-</div>
+**ML / Data**
+<br/>
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
+<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" />
+<img src="https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logoColor=white" />
+
+**Languages**
+<br/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
+<img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white" />
+<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />
+
+**Frontend & Backend**
+<br/>
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+<img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white" />
+<img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" />
+<img src="https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white" />
 
 ---
 
-## 🏆 Achievements & Leadership
-- 🥇 **TSYP Best Video Award** — 2024  
-- 🏆 **Best IEEE Technical Chapter** — Tunisia Section — 2024  
-- 🤖 **Autonomous Robot Competition Winner** — 2024  
-- 👨‍💼 **Technical Team Lead** — IEEE Tunisian Engineering Congress Week 1.0 (Mar 2023 – Sep 2024)  
-- 📢 Media & content roles at PYANGO, IEEE ENIS, TSYP, ENIS Forum
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yessine18&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=yessine18&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=yessine18&theme=tokyo-night&hide_border=true&bg_color=0D1117" alt="Contribution Graph" />
+
+<img src="https://github-profile-trophy.vercel.app/?username=yessine18&theme=tokyonight&no-frame=true&row=1&column=6" alt="GitHub Trophies" />
+
+</div>
+
+<!-- Snake animation: add this once you've set up the GitHub Action at
+     https://github.com/Platane/snk to generate the contribution snake SVG,
+     then point this img to your generated asset (commonly hosted on the
+     `output` branch of this repo). -->
+<!--
+<div align="center">
+  <img src="https://raw.githubusercontent.com/yessine18/yessine18/output/github-contribution-grid-snake.svg" alt="Contribution Snake" />
+</div>
+-->
+
+---
+
+## 🏆 Highlights
+
+- ✔ **Microsoft Certified** — Agentic AI Business Solutions Architect (AB‑100)
+- ✔ **Microsoft Applied Skills** — Identities & access with Microsoft Entra
+- 🥇 **TSYP Best Video Award** — 2024
+- 🏆 **Best IEEE Technical Chapter** — Tunisia Section — 2024
+- 🤖 **Autonomous Robot Competition Winner** — 2024
+- 👨‍💼 **Technical Team Lead** — IEEE Tunisian Engineering Congress Week 1.0 (Mar 2023 – Sep 2024)
+- 📢 **Media & Content Roles** — PYANGO, IEEE ENIS, TSYP, ENIS Forum
 
 ---
 
 ## 📫 Connect
-- **LinkedIn:** [Yessine Fakhfakh](https://www.linkedin.com/in/yessine-fakhfakh-470145298/)  
+
+- **LinkedIn:** [Yessine Fakhfakh](https://www.linkedin.com/in/yessine-fakhfakh-470145298/)
 - **Email:** yessine.fakhfakh@enis.tn
 - **Portfolio:** [yessine18.github.io/yessine-portfolio](https://yessine18.github.io/yessine-portfolio)
 
@@ -164,7 +249,8 @@ Satellite imagery analytics combined with IoT sensor data:
 
 <div align="center">
 
-*"Innovation distinguishes between a leader and a follower."* — Steve Jobs
+*"Building intelligent systems that solve real business problems."*
+— Yessine Fakhfakh
 
 ![Profile Views](https://komarev.com/ghpvc/?username=yessine18&color=00D4FF&style=flat-square)
 
