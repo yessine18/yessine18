@@ -4,13 +4,11 @@
 
 <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=21&duration=3000&pause=1200&color=00D9FF&center=true&vCenter=true&width=820&lines=Agentic+AI+Engineer;Enterprise+AI+%26+Microsoft+Ecosystem;LLMs+%E2%80%A2+RAG+%E2%80%A2+LangGraph+%E2%80%A2+Knowledge+Graphs;Building+Autonomous+Systems+for+Real+Businesses" alt="Typing SVG" />
 
-```bash
 $ whoami
 Software Engineer — Sfax, Tunisia 🇹🇳 — ENIS
 
 $ current_focus
 Production-grade agentic platforms across the Microsoft ecosystem
-```
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0B1120?style=for-the-badge&logo=linkedin&logoColor=00D9FF)](https://www.linkedin.com/in/yessine-fakhfakh-470145298/)
 [![Email](https://img.shields.io/badge/Email-0B1120?style=for-the-badge&logo=gmail&logoColor=00D9FF)](mailto:yessine.fakhfakh@enis.tn)
