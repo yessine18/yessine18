@@ -14,6 +14,7 @@
 
 - ✔ **Microsoft Certified — Agentic AI Business Solutions Architect (AB‑100)**
 - ✔ **Microsoft Applied Skills — Get started with identities and access using Microsoft Entra**
+- ✔ **Microsoft Applied Skills — Enhancing agents with autonomous features**
 
 ---
 
