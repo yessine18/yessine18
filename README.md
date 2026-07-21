@@ -85,6 +85,7 @@ flowchart LR
 - [**Angular**](https://github.com/yessine18/Angular) — Angular full-stack application with backend integration · *TypeScript*
 - [**Spring**](https://github.com/yessine18/Spring) — Java Spring microservices workspace (gateway, registry, and domain services) · *Java*
 - [**PHP-project**](https://github.com/yessine18/PHP-project) — Web project in PHP · *PHP 57% · CSS 27.6% · Hack 12.7%*
+- [**hackathon-inetum**](https://hackathon-inetum.vercel.app/) — Web project in ANGULANR + SUPABASE HTML 9.3% · JavaScript 0.8% · TypeScript 87.4% · CSS 2.5%
 
 ### 🧪 Testing & Quality Assurance
 - [**PlayWright-test**](https://github.com/yessine18/PlayWright-test) — Comprehensive Playwright E2E testing suite: smoke, integration, visual regression, a11y checks · *JavaScript*
