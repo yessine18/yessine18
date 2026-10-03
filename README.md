@@ -1,195 +1,148 @@
 # Yessine Fakhfakh
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=21&duration=3000&pause=1200&color=00D9FF&center=true&vCenter=true&width=820&lines=Agentic+AI+Engineer;Enterprise+AI+%26+Microsoft+Ecosystem;RAG+%7C+Multi-Agent+Systems+%7C+Knowledge+Graphs;Building+Production-Grade+Intelligent+Workflows" alt="Typing banner" />
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=21&duration=3000&pause=1200&color=00D9FF&center=true&vCenter=true&width=820&lines=Agentic+AI+Engineer;Full-Stack+Developer;Automation+%26+Machine+Learning+Builder;Creative+Technologist" alt="Typing animation" />
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0B1120?style=for-the-badge&logo=linkedin&logoColor=00D9FF)](https://www.linkedin.com/in/yessine-fakhfakh-470145298/)
 [![Email](https://img.shields.io/badge/Email-0B1120?style=for-the-badge&logo=gmail&logoColor=00D9FF)](mailto:yessine.fakhfakh@enis.tn)
 [![Portfolio](https://img.shields.io/badge/Portfolio-0B1120?style=for-the-badge&logo=readdotcv&logoColor=00D9FF)](https://yessine18.github.io/yessine-portfolio)
 
-> **Last updated:** 2026-06-30
+> **Last updated:** October 3, 2026
 
----
-
-## 🏅 Microsoft Credentials
-
-- ✔ **Microsoft Certified — Agentic AI Business Solutions Architect (AB‑100)**
-- ✔ **Microsoft Applied Skills — Get started with identities and access using Microsoft Entra**
-- ✔ **Microsoft Applied Skills — Enhancing agents with autonomous features**
+</div>
 
 ---
 
 ## 👋 About Me
 
-I'm a Software Engineer building **enterprise-grade, autonomous AI systems** — the kind that sit inside real business workflows, not just demos.
+I'm a software engineer from Tunisia building practical products across **agentic AI, machine learning, automation, full-stack development, and creative technology**.
 
-My work centers on:
-- Agentic AI & multi-agent orchestration (LangGraph, LangChain)
-- Enterprise RAG & GraphRAG pipelines
-- Knowledge graphs (Neo4j) for grounded, explainable AI
-- Microsoft Graph API, Microsoft Entra, Azure DevOps automation
-- Workflow automation (n8n, FastAPI) and AI architecture design
+My current focus includes:
 
-I enjoy turning messy, manual business processes into intelligent, autonomous systems — and I'm currently deepening my focus on production-grade agentic platforms across the Microsoft ecosystem.
+- Agentic AI and multi-agent orchestration
+- RAG and knowledge-graph-powered applications
+- Microsoft Graph, Microsoft Entra, and Azure DevOps automation
+- Computer vision, OCR, and machine-learning workflows
+- Java, Spring, Angular, TypeScript, JavaScript, Python, and .NET
+- End-to-end web products, testing, and developer tooling
+- Graphic design, video editing, and digital creative work
 
 📍 Sfax, Tunisia · 🎓 National Engineering School of Sfax (ENIS)
 
 ---
 
-## 🧩 What I Build
-- End-to-end AI systems: data → model/agent → production
-- Multi-agent AI systems with RAG, LLM orchestration & knowledge graphs
-- Hybrid agent workflows (RAG + n8n + Neo4j)
-- Microsoft-ecosystem automation (Outlook, Graph API, Entra, Azure DevOps)
-- Full-stack applications to ship and support the above (React, Angular, .NET)
+## 🏅 Microsoft Credentials
+
+- ✔ **Microsoft Certified — Agentic AI Business Solutions Architect (AB-100)**
+- ✔ **Microsoft Applied Skills — Get started with identities and access using Microsoft Entra**
+- ✔ **Microsoft Applied Skills — Enhancing agents with autonomous features**
 
 ---
 
-## 🏗️ Example System Architecture
+## 🧩 What I Build
 
-```mermaid
-flowchart LR
-    A[Outlook Inbox] --> B[Microsoft Graph API]
-    B --> C[LLM Triage Agent]
-    C --> D[GraphRAG Retrieval]
-    D --> E[(Neo4j Knowledge Graph)]
-    C --> F[Azure DevOps Work Item]
-    F --> G[Automated Reply / Teams Notification]
-```
-
-```mermaid
-flowchart LR
-    U[User Request] --> O[LangGraph Orchestrator]
-    O --> R[Retrieval Agent]
-    R --> K[(Knowledge Graph)]
-    O --> L[LLM Reasoning Agent]
-    L --> A[Action Agent]
-    A --> S[Azure DevOps / API / DB]
-```
+- AI assistants and multi-agent systems with RAG and LLM orchestration
+- Intelligent document, receipt, image, and email-processing pipelines
+- Knowledge-graph applications using Neo4j
+- Automation connecting Microsoft Graph, Azure DevOps, APIs, databases, and bots
+- Full-stack applications with Angular, Spring, Node.js, PHP, and TypeScript
+- Testing systems with Playwright and end-to-end quality checks
+- Creative portfolios, media tools, and browser-based experiences
 
 ---
 
 ## 📚 Repository Gallery
 
-### 🤖 AI & Agentic Systems
-- [**Outlook-TFS-automation**](https://github.com/yessine18/Outlook-TFS-automation) — .NET + AI pipeline analyzing Outlook support emails, performing RAG-based auto-resolve, and creating Azure DevOps work items · *C# · Python*
-- [**Brain-tumor-Multi-Agent**](https://github.com/yessine18/Brain-tumor-Multi-Agent) — Multi-agent medical AI system: VGG19 classifier + Neo4j knowledge graph + Grad-CAM visualization · *Python 100%*
-- [**Chatbot-RAG**](https://github.com/yessine18/Chatbot-RAG) — RAG chatbot with PostgreSQL vector search for university enrollment Q&A · *Jupyter Notebook · Python*
-- [**AI-Receipt-Processing-Automation**](https://github.com/yessine18/AI-Receipt-Processing-Automation) — Self-hosted receipt OCR + LLM parsing, DB & bot integration · *Python 60.4% · JavaScript 39.6%*
-- [**Motivation-Letter-email-Generator**](https://github.com/yessine18/Motivation-Letter-email-Generator) — AI-powered motivation letter generator using Gemini LLM · *Python* · [Live Demo](https://motivation-letter-email-generator.streamlit.app/)
-- [**ML-Analyse-de-Churn**](https://github.com/yessine18/ML-Analyse-de-Churn) — Churn analysis experiments and dashboards · *HTML 44.5% · Python 31.7% · CSS 23.8%*
+This profile is maintained from my complete public repository portfolio.
 
-### 🌐 Full-Stack Web Development
-- [**adaptive-backend**](https://github.com/yessine18/adaptive-backend) — Node.js backend service for adaptive web platform workflows · *JavaScript*
-- [**yessine-portfolio**](https://github.com/yessine18/yessine-portfolio) — Personal portfolio site (live) · *HTML 48.3% · CSS 43.4% · JavaScript 8.3%* · [Live](https://yessine18.github.io/yessine-portfolio)
-- [**TecWeek**](https://github.com/yessine18/TecWeek) — Event website for IEEE engineering congress · *TypeScript 84% · CSS 12.8%*
-- [**Angular**](https://github.com/yessine18/Angular) — Angular full-stack application with backend integration · *TypeScript*
-- [**Spring**](https://github.com/yessine18/Spring) — Java Spring microservices workspace (gateway, registry, and domain services) · *Java*
-- [**PHP-project**](https://github.com/yessine18/PHP-project) — Web project in PHP · *PHP 57% · CSS 27.6% · Hack 12.7%*
-- [**hackathon-inetum**](https://hackathon-inetum.vercel.app/) — Web project in ANGULANR + SUPABASE HTML 9.3% · JavaScript 0.8% · TypeScript 87.4% · CSS 2.5%
+### 🤖 AI, Machine Learning & Automation
 
-### 🧪 Testing & Quality Assurance
-- [**PlayWright-test**](https://github.com/yessine18/PlayWright-test) — Comprehensive Playwright E2E testing suite: smoke, integration, visual regression, a11y checks · *JavaScript*
+- [**Brain-tumor-Multi-Agent**](https://github.com/yessine18/Brain-tumor-Multi-Agent) — Multi-agent medical AI project combining image classification, knowledge-graph context, and explainability · `Python`
+- [**Outlook-TFS-automation**](https://github.com/yessine18/Outlook-TFS-automation) — Automation for processing Outlook support emails and connecting workflows with Azure DevOps · `C#`
+- [**Chatbot-RAG**](https://github.com/yessine18/Chatbot-RAG) — Retrieval-augmented chatbot project for university enrollment questions · `Jupyter Notebook`
+- [**AI-Receipt-Processing-Automation**](https://github.com/yessine18/AI-Receipt-Processing-Automation) — Self-hosted receipt processing with Tesseract OCR, Gemini Vision parsing, PostgreSQL, local storage, and Discord integration · `Python`
+- [**remove_bg**](https://github.com/yessine18/remove_bg) — Utility for removing speaker backgrounds from images · `Python`
+- [**Motivation-Letter-email-Generator**](https://github.com/yessine18/Motivation-Letter-email-Generator) — Generates personalized motivation letters and emails for final-year project applications · `Python`
+- [**ML-Analyse-de-Churn**](https://github.com/yessine18/ML-Analyse-de-Churn) — Machine-learning churn analysis project with a web interface · `HTML`
 
-### 🛰️ IoT & Environmental Monitoring
-- [**TerraNova-2056**](https://github.com/yessine18/TerraNova-2056) — Satellite imagery & CanSat research for environmental monitoring with NDVI analysis
+### 🌐 Full-Stack & Web Development
 
-### 📖 Learning & Profile
-- [**skills-introduction-to-github**](https://github.com/yessine18/skills-introduction-to-github) — GitHub learning exercises
-- [**yessine18.github.io**](https://github.com/yessine18/yessine18.github.io) — GitHub Pages profile website repository
-- [**yessine18**](https://github.com/yessine18/yessine18) — Profile README & portfolio hub (this repo)
+- [**Angular**](https://github.com/yessine18/Angular) — Frontend repository for an Angular-based application · `TypeScript`
+- [**Spring**](https://github.com/yessine18/Spring) — Backend repository using Java and Spring · `Java`
+- [**adaptive-backend**](https://github.com/yessine18/adaptive-backend) — Backend service for adaptive web-platform workflows · `JavaScript`
+- [**TecWeek**](https://github.com/yessine18/TecWeek) — TypeScript-based event website project · `TypeScript`
+- [**PHP-project**](https://github.com/yessine18/PHP-project) — Web application project built with PHP · `PHP`
+- [**Hackathon-Inetum**](https://github.com/yessine18/Hackathon-Inetum) — Hackathon project · `Python`
+- [**yessine-portfolio**](https://github.com/yessine18/yessine-portfolio) — Personal e-portfolio website · `CSS`
+- [**yessine18.github.io**](https://github.com/yessine18/yessine18.github.io) — GitHub Pages website repository
+
+### 🧪 Testing & Developer Practice
+
+- [**PlayWright-test**](https://github.com/yessine18/PlayWright-test) — Node.js application with Playwright smoke, integration, visual-regression, accessibility, and security tests · `JavaScript`
+- [**skills-introduction-to-github**](https://github.com/yessine18/skills-introduction-to-github) — GitHub learning exercises and practice repository
+
+### 🎨 Creative Tools & Interactive Projects
+
+- [**creative-portfolio**](https://github.com/yessine18/creative-portfolio) — Graphic design and video-editing freelancing portfolio · `HTML`
+- [**AlbumCraft**](https://github.com/yessine18/AlbumCraft) — Python utility that applies transparent frames to batches of JPEG images based on aspect ratio · `Python`
+- [**flappy_bird**](https://github.com/yessine18/flappy_bird) — Browser game project · `JavaScript`
+- [**countdown**](https://github.com/yessine18/countdown) — Countdown web experience · `HTML`
+
+### 🛰️ Research, IoT & Environmental Projects
+
+- [**TerraNova-2056**](https://github.com/yessine18/TerraNova-2056) — Satellite-imagery and CanSat research project for environmental monitoring
+- [**AESSENIS-terranova**](https://github.com/yessine18/AESSENIS-terranova) — TerraNova-related project repository
+
+### 🗂️ Profile Hub
+
+- [**yessine18**](https://github.com/yessine18/yessine18) — This profile README and project hub
 
 ---
 
 ## 🌟 Featured Projects
 
-### 🧠 Brain-tumor-Multi-Agent
-A production-grade multi-agent AI system for medical imaging analysis.
-`Python` `TensorFlow` `Neo4j` `LangChain` `Groq`
-- **Agent 1:** VGG19-based binary classifier with Grad-CAM explainability
-- **Agent 2:** Neo4j knowledge graph integration for medical context
-- **Agent 3:** LLM-powered comprehensive report generation (Groq/Llama)
+### 🧠 Brain Tumor Multi-Agent System
+A computer-vision and agentic-AI project exploring medical image analysis, explainability, and knowledge-graph context.
 
-### 📧 Outlook-TFS-automation
-Enterprise automation stack that converts support emails into trackable DevOps workflows.
-`C#` `Python` `Microsoft Graph` `Azure DevOps` `pgvector`
-- Outlook mailbox polling with Microsoft Graph API
-- LLM extraction for severity, intent, and routing context
-- RAG retrieval from Microsoft documentation using PostgreSQL pgvector
-- Azure DevOps issue creation + automated reply/notification flows
+`Python` `TensorFlow` `Neo4j` `LangChain`
 
-### 🧾 AI-Receipt-Processing-Automation
-Self-hosted pipeline for intelligent receipt processing.
-`Python` `Tesseract OCR` `PostgreSQL` `Telegram Bot`
-- Tesseract OCR preprocessing with image enhancement
-- LLM parsing (Gemini-compatible patterns)
-- Local file storage + PostgreSQL database
-- RESTful API + Telegram bot integration
+### 📧 Outlook-to-DevOps Automation
+An enterprise workflow concept that connects Outlook support messages with intelligent analysis and Azure DevOps processes.
 
-### 🌐 Adaptive Web Stack
-Backend and web engineering projects focused on scalable service architecture.
-`Node.js` `Spring` `React` `Angular`
-- Node.js backend workflows for adaptive platform logic
-- Spring microservice architecture experiments (gateway + service registry)
-- Frontend/backend integration patterns across React, Angular, and Java services
+`C#` `Python` `Microsoft Graph` `Azure DevOps`
 
-### 🛰️ TerraNova 2056
-Satellite imagery analytics combined with IoT sensor data.
-`NDVI` `CanSat` `Environmental Monitoring`
-- NDVI & environmental indices computation
-- CanSat data integration for smart-city prototypes
+### 🧾 AI Receipt Processing Automation
+A self-hosted pipeline for extracting structured receipt information from images and connecting the results to storage, databases, and messaging workflows.
+
+`Python` `Tesseract OCR` `PostgreSQL` `Discord`
+
+### 🖼️ AlbumCraft
+A lightweight image-processing utility for applying transparent frames to batches of portrait and landscape JPEG images.
+
+`Python` `Pillow`
 
 ---
 
 ## 🛠️ Skills & Technologies
 
-**AI / Agentic**
-<br/>
-<img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logoColor=white" />
-<img src="https://img.shields.io/badge/LangChain-111827?style=flat-square&logo=langchain&logoColor=white" />
-<img src="https://img.shields.io/badge/Groq-000000?style=flat-square&logo=groq&logoColor=white" />
-<img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" />
-<img src="https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logoColor=white" />
+**Languages**  
+`Python` `TypeScript` `JavaScript` `Java` `C#` `PHP` `HTML` `CSS`
 
-**Microsoft Ecosystem**
-<br/>
-<img src="https://img.shields.io/badge/Microsoft_Graph-0078D4?style=flat-square&logo=microsoft&logoColor=white" />
-<img src="https://img.shields.io/badge/Microsoft_Entra-0078D4?style=flat-square&logo=microsoft&logoColor=white" />
-<img src="https://img.shields.io/badge/Azure_DevOps-0078D7?style=flat-square&logo=azuredevops&logoColor=white" />
-<img src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white" />
+**AI / Data**  
+`LangGraph` `LangChain` `RAG` `GraphRAG` `Neo4j` `TensorFlow` `scikit-learn` `OCR`
 
-**Databases & Knowledge**
-<br/>
-<img src="https://img.shields.io/badge/Neo4j-008CC1?style=flat-square&logo=neo4j&logoColor=white" />
-<img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" />
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+**Microsoft Ecosystem**  
+`Microsoft Graph` `Microsoft Entra` `Azure DevOps` `.NET`
 
-**Automation**
-<br/>
-<img src="https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white" />
-<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
-<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+**Web & Backend**  
+`Angular` `Spring` `Node.js` `React` `FastAPI` `Flask` `PostgreSQL`
 
-**ML / Data**
-<br/>
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
-<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" />
-<img src="https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logoColor=white" />
+**Automation & Quality**  
+`n8n` `Docker` `Playwright` `End-to-End Testing`
 
-**Languages**
-<br/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
-<img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white" />
-<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />
-
-**Frontend & Backend**
-<br/>
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
-<img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white" />
-<img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" />
-<img src="https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white" />
+**Creative Technology**  
+`Graphic Design` `Video Editing` `Image Processing` `Interactive Web Experiences`
 
 ---
 
@@ -197,28 +150,26 @@ Satellite imagery analytics combined with IoT sensor data.
 
 <div align="center">
 
-
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=yessine18&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=yessine18&theme=tokyo-night&hide_border=true&bg_color=0D1117" alt="Contribution Graph" />
 
-</div>
+<img src="https://raw.githubusercontent.com/yessine18/yessine18/output/github-contribution-grid-snake.svg" alt="Contribution Snake" />
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/yessine18/yessine18/output/github-contribution-grid-snake.svg" alt="Contribution Snake" />
 </div>
 
 ---
 
 ## 🏆 Highlights
 
-- ✔ **Microsoft Certified** — Agentic AI Business Solutions Architect (AB‑100)
-- ✔ **Microsoft Applied Skills** — Identities & access with Microsoft Entra
+- ✔ **Microsoft Certified** — Agentic AI Business Solutions Architect (AB-100)
+- ✔ **Microsoft Applied Skills** — Microsoft Entra identities and access
+- ✔ **Microsoft Applied Skills** — Autonomous agent features
 - 🥇 **TSYP Best Video Award** — 2024
 - 🏆 **Best IEEE Technical Chapter** — Tunisia Section — 2024
 - 🤖 **Autonomous Robot Competition Winner** — 2024
-- 👨‍💼 **Technical Team Lead** — IEEE Tunisian Engineering Congress Week 1.0 (Mar 2023 – Sep 2024)
-- 📢 **Media & Content Roles** — PYANGO, IEEE ENIS, TSYP, ENIS Forum
+- 👨‍💼 **Technical Team Lead** — IEEE Tunisian Engineering Congress Week 1.0
+- 📢 **Media and content roles** — PYANGO, IEEE ENIS, TSYP, and ENIS Forum
 
 ---
 
@@ -230,7 +181,7 @@ Satellite imagery analytics combined with IoT sensor data.
 [![Email](https://img.shields.io/badge/Email-0B1120?style=for-the-badge&logo=gmail&logoColor=00D9FF)](mailto:yessine.fakhfakh@enis.tn)
 [![Portfolio](https://img.shields.io/badge/Portfolio-0B1120?style=for-the-badge&logo=readdotcv&logoColor=00D9FF)](https://yessine18.github.io/yessine-portfolio)
 
-*"Building intelligent systems that solve real business problems."*
+*Building intelligent systems and creative products that solve real problems.*
 
 ![Profile Views](https://komarev.com/ghpvc/?username=yessine18&color=00D9FF&style=flat-square&label=Profile+Views)
 
