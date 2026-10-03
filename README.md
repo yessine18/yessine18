@@ -8,7 +8,7 @@
 [![Email](https://img.shields.io/badge/Email-0B1120?style=for-the-badge&logo=gmail&logoColor=00D9FF)](mailto:yessine.fakhfakh@enis.tn)
 [![Portfolio](https://img.shields.io/badge/Portfolio-0B1120?style=for-the-badge&logo=readdotcv&logoColor=00D9FF)](https://yessine18.github.io/yessine-portfolio)
 
-> **Last updated:** October 3, 2026
+> **Last updated:** October 4, 2026
 
 </div>
 
@@ -18,17 +18,50 @@
 
 I'm a software engineer from Tunisia building practical products across **agentic AI, machine learning, automation, full-stack development, and creative technology**.
 
+I'm a Full-Stack Developer with hands-on experience across multiple stacks (**Angular, React, .NET, Java/Spring**), building complete, production-ready applications and integrating AI-driven features into real products. I graduated in **Computer Science Engineering from ENIS in June 2026**, after completing my graduation project as a Technical Consultant at **Inetum Tunisie**.
+
 My current focus includes:
 
 - Agentic AI and multi-agent orchestration
 - RAG and knowledge-graph-powered applications
 - Microsoft Graph, Microsoft Entra, and Azure DevOps automation
 - Computer vision, OCR, and machine-learning workflows
+- MLOps pipelines for model deployment and anomaly detection
 - Java, Spring, Angular, TypeScript, JavaScript, Python, and .NET
+- Microservices architecture and distributed systems
 - End-to-end web products, testing, and developer tooling
 - Graphic design, video editing, and digital creative work
 
 📍 Sfax, Tunisia · 🎓 National Engineering School of Sfax (ENIS)
+🗣️ English · French (bilingual) · Arabic (native)
+
+---
+
+## 💼 Professional Experience
+
+### 🧑‍💻 Graduation Project Engineer, Technical Consultant (CRM) — Inetum Tunisie
+*Feb 2026 – Jun 2026 · Autonomous Helpdesk Engine: Cognitive Task Resolution and Inbound Automation*
+
+- Built .NET/C# and Python backend services to automate Outlook-based IT ticket resolution via the Microsoft Graph API
+- Designed LangGraph agent workflows with Graph RAG for reliable, context-aware ticket responses
+- Implemented OAuth 2.0 with Microsoft Entra ID and RLS-secured PostgreSQL access, integrated with Azure DevOps and Microsoft Teams webhooks
+
+`.NET` `Python` `LangGraph` `Microsoft Graph API` `Entra ID` `Azure DevOps` `PostgreSQL` `Neo4j`
+
+### 🏁 Hackathon Participant — Inetum Tunisie
+*May 2026 – Jun 2026 · Intelligent Charity Actions Platform*
+
+- Built a full-stack platform (Angular, FastAPI) for employees to discover and register for solidarity actions tied to the UN's 17 SDGs
+- Implemented REST APIs and data models across Neo4j and Supabase (PostgreSQL)
+
+`Angular` `TypeScript` `Python` `FastAPI` `Neo4j` `Supabase` `PostgreSQL`
+
+### 🧠 Software Engineer Intern — Assistance Plus Sfax
+*Jun 2025 – Aug 2025 · Hybrid AI Agent Orchestration Platform*
+
+- Built and deployed FastAPI backend services for a workflow automation and orchestration platform, with SQL data pipelines and real-time monitoring
+
+`Python` `FastAPI` `SQL` `ChromaDB` `n8n` `REST APIs`
 
 ---
 
@@ -40,13 +73,23 @@ My current focus includes:
 
 ---
 
+## 🎓 Education
+
+- **National Engineering School of Sfax (ENIS)** — Computer Science Engineering Graduate · Sep 2023 – Jun 2026
+- **Faculty of Sciences of Sfax (FSS)** — Pre-Engineering (Physics & Mathematics) · Sep 2021 – Jun 2023 · Ranked in the top 40% in the National Entrance Exam
+
+---
+
 ## 🧩 What I Build
 
 - AI assistants and multi-agent systems with RAG and LLM orchestration
+- Autonomous helpdesk and ticket-resolution engines powered by LangGraph and Graph RAG
 - Intelligent document, receipt, image, and email-processing pipelines
 - Knowledge-graph applications using Neo4j
-- Automation connecting Microsoft Graph, Azure DevOps, APIs, databases, and bots
-- Full-stack applications with Angular, Spring, Node.js, PHP, and TypeScript
+- Automation connecting Microsoft Graph, Azure DevOps, Microsoft Teams, APIs, databases, and bots
+- Full-stack applications with Angular, React, Next.js, Spring, Django, FastAPI, .NET, Node.js, PHP, and TypeScript
+- Microservices platforms with Spring Cloud Gateway and Eureka service discovery
+- MLOps pipelines for forecasting, automated model deployment, and anomaly detection
 - Testing systems with Playwright and end-to-end quality checks
 - Creative portfolios, media tools, and browser-based experiences
 
@@ -73,13 +116,13 @@ This profile is maintained from my complete public repository portfolio.
 - [**adaptive-backend**](https://github.com/yessine18/adaptive-backend) — Backend service for adaptive web-platform workflows · `JavaScript`
 - [**TecWeek**](https://github.com/yessine18/TecWeek) — TypeScript-based event website project · `TypeScript`
 - [**PHP-project**](https://github.com/yessine18/PHP-project) — Web application project built with PHP · `PHP`
-- [**Hackathon-Inetum**](https://github.com/yessine18/Hackathon-Inetum) — Hackathon project · `Python`
+- [**Hackathon-Inetum**](https://github.com/yessine18/Hackathon-Inetum) — Hackathon project from the Inetum Tunisie hackathon (Intelligent Charity Actions Platform) · `Python`
 - [**yessine-portfolio**](https://github.com/yessine18/yessine-portfolio) — Personal e-portfolio website · `CSS`
 - [**yessine18.github.io**](https://github.com/yessine18/yessine18.github.io) — GitHub Pages website repository
 
 ### 🧪 Testing & Developer Practice
 
-- [**PlayWright-test**](https://github.com/yessine18/PlayWright-test) — Node.js application with Playwright smoke, integration, visual-regression, accessibility, and security tests · `JavaScript`
+- [**PlayWright-test**](https://github.com/yessine18/PlayWright-test) — Node.js application with Playwright smoke, integration, visual-regression, accessibility, and security tests, automated with GitHub Actions · `JavaScript`
 - [**skills-introduction-to-github**](https://github.com/yessine18/skills-introduction-to-github) — GitHub learning exercises and practice repository
 
 ### 🎨 Creative Tools & Interactive Projects
@@ -102,6 +145,11 @@ This profile is maintained from my complete public repository portfolio.
 
 ## 🌟 Featured Projects
 
+### 🤖 Autonomous Helpdesk Engine
+My graduation project at Inetum Tunisie: an agentic system that automates Outlook-based IT ticket resolution with LangGraph workflows and Graph RAG, secured with Microsoft Entra ID (OAuth 2.0) and RLS-protected PostgreSQL, and integrated with Azure DevOps and Teams webhooks.
+
+`.NET` `C#` `Python` `LangGraph` `Microsoft Graph` `Entra ID` `Neo4j` `PostgreSQL`
+
 ### 🧠 Brain Tumor Multi-Agent System
 A computer-vision and agentic-AI project exploring medical image analysis, explainability, and knowledge-graph context.
 
@@ -117,6 +165,36 @@ A self-hosted pipeline for extracting structured receipt information from images
 
 `Python` `Tesseract OCR` `PostgreSQL` `Discord`
 
+### 👥 Responsible AI Recruitment Platform (ATS)
+Built for the ZEN GROUP technical test (Sep 2026): a full-stack applicant tracking system using Gemini AI for factual, citation-backed CV parsing, with automated interview scheduling, Google Calendar sync, and feedback SLA alerts through n8n webhooks.
+
+`Next.js 14` `TypeScript` `PostgreSQL` `Prisma` `Google Gemini` `n8n` `Docker`
+
+### 🌍 Intelligent Charity Actions Platform
+A hackathon project at Inetum Tunisie that lets employees discover and register for solidarity actions aligned with the UN's 17 Sustainable Development Goals, with data models across Neo4j and Supabase.
+
+`Angular` `TypeScript` `FastAPI` `Neo4j` `Supabase`
+
+### ⚡ AI-Powered Energy Consumption Prediction Platform
+A full-stack energy forecasting application (ENIS, Dec 2024 – May 2025) with MLOps pipelines for automated model deployment and anomaly detection.
+
+`Django` `React` `MongoDB` `Scikit-learn` `TensorFlow` `MLflow` `Kubeflow`
+
+### 🔀 Hybrid AI Agent Orchestration Platform
+FastAPI backend services for a workflow automation and orchestration platform, built during my internship at Assistance Plus, with SQL data pipelines and real-time monitoring.
+
+`Python` `FastAPI` `SQL` `ChromaDB` `n8n`
+
+### 🧱 Microservices Platform
+A distributed architecture with an Angular frontend and a Java backend using Spring Boot, Spring Cloud Gateway, and Eureka for service discovery.
+
+`Angular` `Java` `Spring Boot` `Spring Cloud Gateway` `Eureka`
+
+### 🧪 End-to-End Test Automation Suite
+A test automation suite covering E2E, integration, accessibility, and security testing, run through GitHub Actions.
+
+`JavaScript` `Node.js` `Express.js` `Playwright` `GitHub Actions`
+
 ### 🖼️ AlbumCraft
 A lightweight image-processing utility for applying transparent frames to batches of portrait and landscape JPEG images.
 
@@ -127,22 +205,28 @@ A lightweight image-processing utility for applying transparent frames to batche
 ## 🛠️ Skills & Technologies
 
 **Languages**  
-`Python` `TypeScript` `JavaScript` `Java` `C#` `PHP` `HTML` `CSS`
+`Python` `TypeScript` `JavaScript` `Java` `C#` `PHP` `SQL` `HTML` `CSS`
 
 **AI / Data**  
-`LangGraph` `LangChain` `RAG` `GraphRAG` `Neo4j` `TensorFlow` `scikit-learn` `OCR`
+`LangGraph` `LangChain` `RAG` `GraphRAG` `Google Generative AI` `Neo4j` `ChromaDB` `TensorFlow` `scikit-learn` `MLflow` `Kubeflow` `OCR`
 
 **Microsoft Ecosystem**  
-`Microsoft Graph` `Microsoft Entra` `Azure DevOps` `.NET`
+`Microsoft Graph API` `Microsoft Entra ID (OAuth 2.0)` `Azure DevOps (CI/CD)` `Microsoft Teams Webhooks` `.NET`
 
 **Web & Backend**  
-`Angular` `Spring` `Node.js` `React` `FastAPI` `Flask` `PostgreSQL`
+`Angular` `Spring (Microservices)` `Node.js` `React` `Next.js` `Django` `FastAPI` `Flask` `REST APIs` `Uvicorn`
+
+**Databases**  
+`PostgreSQL` `MySQL` `MongoDB` `Neo4j` `ChromaDB` `Supabase` `Prisma`
 
 **Automation & Quality**  
-`n8n` `Docker` `Playwright` `End-to-End Testing`
+`n8n` `Docker` `Git` `GitHub Actions` `Playwright` `End-to-End Testing` `Code Reviews`
 
 **Creative Technology**  
 `Graphic Design` `Video Editing` `Image Processing` `Interactive Web Experiences`
+
+**Languages Spoken**  
+🇬🇧 English · 🇫🇷 French (bilingual) · 🇹🇳 Arabic (native)
 
 ---
 
@@ -165,6 +249,8 @@ A lightweight image-processing utility for applying transparent frames to batche
 - ✔ **Microsoft Certified** — Agentic AI Business Solutions Architect (AB-100)
 - ✔ **Microsoft Applied Skills** — Microsoft Entra identities and access
 - ✔ **Microsoft Applied Skills** — Autonomous agent features
+- 🎓 **Computer Science Engineering Graduate** — ENIS, June 2026
+- 🤝 **Graduation Project at Inetum Tunisie** — Autonomous Helpdesk Engine (Feb – Jun 2026)
 - 🥇 **TSYP Best Video Award** — 2024
 - 🏆 **Best IEEE Technical Chapter** — Tunisia Section — 2024
 - 🤖 **Autonomous Robot Competition Winner** — 2024
