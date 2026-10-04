@@ -1,491 +1,272 @@
+# Yessine Fakhfakh</h1>
 <div align="center">
 
-# YESSINE FAKHFAKH
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=21&duration=3000&pause=1200&color=00D9FF&center=true&vCenter=true&width=820&lines=Agentic+AI+Engineer;Full-Stack+Developer;Automation+%26+Machine+Learning+Builder;Creative+Technologist" alt="Typing animation" />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=900&color=00D9FF&center=true&vCenter=true&width=700&lines=AI+Engineer+%7C+Full-Stack+Developer;Agentic+AI+%7C+RAG+%7C+Automation;Software+%2B+AI+%2B+Creative+Technology;Building+systems+that+think+%26+ship." />
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0B1120?style=for-the-badge&logo=linkedin&logoColor=00D9FF)](https://www.linkedin.com/in/yessine-fakhfakh-470145298/)
+[![Email](https://img.shields.io/badge/Email-0B1120?style=for-the-badge&logo=gmail&logoColor=00D9FF)](mailto:yessine.fakhfakh@enis.tn)
+[![Portfolio](https://img.shields.io/badge/Portfolio-0B1120?style=for-the-badge&logo=readdotcv&logoColor=00D9FF)](https://yessine18.github.io/yessine-portfolio)
 
-<br>
-
-<a href="https://linkedin.com/in/yessine-fakhfakh">
-<img src="https://img.shields.io/badge/LINKEDIN-161B22?style=for-the-badge&logo=linkedin&logoColor=00D9FF" />
-</a>
-&nbsp;
-<a href="mailto:yessine.fakhfakh@ieee.org">
-<img src="https://img.shields.io/badge/EMAIL-161B22?style=for-the-badge&logo=gmail&logoColor=00D9FF" />
-</a>
-&nbsp;
-<a href="https://fakhfakhyessine.me/creative-portfolio/">
-<img src="https://img.shields.io/badge/PORTFOLIO-161B22?style=for-the-badge&logo=vercel&logoColor=00D9FF" />
-</a>
-
-<br><br>
-
-<img src="https://komarev.com/ghpvc/?username=yessine18&label=PROFILE%20VIEWS&color=00D9FF&style=flat-square" />
-
-</div>
-
-<br>
-
-<div align="center">
-
-```text
-AI                    SOFTWARE                 CREATIVE
-│                     │                        │
-├─ Agentic AI         ├─ Full-Stack            ├─ Visual Design
-├─ RAG / GraphRAG     ├─ .NET / Java           ├─ Motion
-├─ LLM Systems        ├─ Angular / React       ├─ Video
-└─ AI Automation      └─ APIs / Microservices  └─ Interactive Web
-             \             │             /
-              \            │            /
-               └───────  YF  ──────────┘
-```
+> **Last updated:** October 4, 2026
 
 </div>
 
 ---
 
-<div align="center">
+## 👋 About Me
 
-### `BUILD → CONNECT → AUTOMATE → CREATE`
+I'm a software engineer from Tunisia building practical products across **agentic AI, machine learning, automation, full-stack development, and creative technology**.
 
-</div>
+I'm a Full-Stack Developer with hands-on experience across multiple stacks (**Angular, React, .NET, Java/Spring**), building complete, production-ready applications and integrating AI-driven features into real products. I graduated in **Computer Science Engineering from ENIS in June 2026**, after completing my graduation project as a Technical Consultant at **Inetum Tunisie**.
 
-I’m a **Computer Science Engineer from ENIS Sfax**, working at the intersection of **AI engineering, software development, automation and creative technology**.
+My current focus includes:
 
-My goal isn't just to integrate AI into applications.
+- Agentic AI and multi-agent orchestration
+- RAG and knowledge-graph-powered applications
+- Microsoft Graph, Microsoft Entra, and Azure DevOps automation
+- Computer vision, OCR, and machine-learning workflows
+- MLOps pipelines for model deployment and anomaly detection
+- Java, Spring, Angular, TypeScript, JavaScript, Python, and .NET
+- Microservices architecture and distributed systems
+- End-to-end web products, testing, and developer tooling
+- Graphic design, video editing, and digital creative work
 
-**I like building the systems around it.**
+📍 Sfax, Tunisia · 🎓 National Engineering School of Sfax (ENIS)
+🗣️ English · French (bilingual) · Arabic (native)
 
 ---
 
-<div align="center">
+## 💼 Professional Experience
 
-<img src="https://skillicons.dev/icons?i=python,cs,dotnet,java,ts,angular,react,spring,fastapi,docker,postgres,neo4j&perline=12" />
+### 🧑‍💻 Graduation Project Engineer, Technical Consultant (CRM) — Inetum Tunisie
+*Feb 2026 – Jun 2026 · Autonomous Helpdesk Engine: Cognitive Task Resolution and Inbound Automation*
 
-</div>
+- Built .NET/C# and Python backend services to automate Outlook-based IT ticket resolution via the Microsoft Graph API
+- Designed LangGraph agent workflows with Graph RAG for reliable, context-aware ticket responses
+- Implemented OAuth 2.0 with Microsoft Entra ID and RLS-secured PostgreSQL access, integrated with Azure DevOps and Microsoft Teams webhooks
+
+`.NET` `Python` `LangGraph` `Microsoft Graph API` `Entra ID` `Azure DevOps` `PostgreSQL` `Neo4j`
+
+### 🏁 Hackathon Participant — Inetum Tunisie
+*May 2026 – Jun 2026 · Intelligent Charity Actions Platform*
+
+- Built a full-stack platform (Angular, FastAPI) for employees to discover and register for solidarity actions tied to the UN's 17 SDGs
+- Implemented REST APIs and data models across Neo4j and Supabase (PostgreSQL)
+
+`Angular` `TypeScript` `Python` `FastAPI` `Neo4j` `Supabase` `PostgreSQL`
+
+### 🧠 Software Engineer Intern — Assistance Plus Sfax
+*Jun 2025 – Aug 2025 · Hybrid AI Agent Orchestration Platform*
+
+- Built and deployed FastAPI backend services for a workflow automation and orchestration platform, with SQL data pipelines and real-time monitoring
+
+`Python` `FastAPI` `SQL` `ChromaDB` `n8n` `REST APIs`
 
 ---
 
-# `01` · WHAT I'M BUILDING
+## 🏅 Microsoft Credentials
+
+- ✔ **Microsoft Certified — Agentic AI Business Solutions Architect (AB-100)**
+- ✔ **Microsoft Applied Skills — Get started with identities and access using Microsoft Entra**
+- ✔ **Microsoft Applied Skills — Enhancing agents with autonomous features**
+
+---
+
+## 🎓 Education
+
+- **National Engineering School of Sfax (ENIS)** — Computer Science Engineering Graduate · Sep 2023 – Jun 2026
+- **Faculty of Sciences of Sfax (FSS)** — Pre-Engineering (Physics & Mathematics) · Sep 2021 – Jun 2023 · Ranked in the top 40% in the National Entrance Exam
+
+---
+
+## 🧩 What I Build
+
+- AI assistants and multi-agent systems with RAG and LLM orchestration
+- Autonomous helpdesk and ticket-resolution engines powered by LangGraph and Graph RAG
+- Intelligent document, receipt, image, and email-processing pipelines
+- Knowledge-graph applications using Neo4j
+- Automation connecting Microsoft Graph, Azure DevOps, Microsoft Teams, APIs, databases, and bots
+- Full-stack applications with Angular, React, Next.js, Spring, Django, FastAPI, .NET, Node.js, PHP, and TypeScript
+- Microservices platforms with Spring Cloud Gateway and Eureka service discovery
+- MLOps pipelines for forecasting, automated model deployment, and anomaly detection
+- Testing systems with Playwright and end-to-end quality checks
+- Creative portfolios, media tools, and browser-based experiences
+
+---
+
+## 📚 Repository Gallery
+
+This profile is maintained from my complete public repository portfolio.
+
+### 🤖 AI, Machine Learning & Automation
+
+- [**Brain-tumor-Multi-Agent**](https://github.com/yessine18/Brain-tumor-Multi-Agent) — Multi-agent medical AI project combining image classification, knowledge-graph context, and explainability · `Python`
+- [**Outlook-TFS-automation**](https://github.com/yessine18/Outlook-TFS-automation) — Automation for processing Outlook support emails and connecting workflows with Azure DevOps · `C#`
+- [**Chatbot-RAG**](https://github.com/yessine18/Chatbot-RAG) — Retrieval-augmented chatbot project for university enrollment questions · `Jupyter Notebook`
+- [**AI-Receipt-Processing-Automation**](https://github.com/yessine18/AI-Receipt-Processing-Automation) — Self-hosted receipt processing with Tesseract OCR, Gemini Vision parsing, PostgreSQL, local storage, and Discord integration · `Python`
+- [**remove_bg**](https://github.com/yessine18/remove_bg) — Utility for removing speaker backgrounds from images · `Python`
+- [**Motivation-Letter-email-Generator**](https://github.com/yessine18/Motivation-Letter-email-Generator) — Generates personalized motivation letters and emails for final-year project applications · `Python`
+- [**ML-Analyse-de-Churn**](https://github.com/yessine18/ML-Analyse-de-Churn) — Machine-learning churn analysis project with a web interface · `HTML`
+
+### 🌐 Full-Stack & Web Development
+
+- [**Angular**](https://github.com/yessine18/Angular) — Frontend repository for an Angular-based application · `TypeScript`
+- [**Spring**](https://github.com/yessine18/Spring) — Backend repository using Java and Spring · `Java`
+- [**adaptive-backend**](https://github.com/yessine18/adaptive-backend) — Backend service for adaptive web-platform workflows · `JavaScript`
+- [**TecWeek**](https://github.com/yessine18/TecWeek) — TypeScript-based event website project · `TypeScript`
+- [**PHP-project**](https://github.com/yessine18/PHP-project) — Web application project built with PHP · `PHP`
+- [**Hackathon-Inetum**](https://github.com/yessine18/Hackathon-Inetum) — Hackathon project from the Inetum Tunisie hackathon (Intelligent Charity Actions Platform) · `Python`
+- [**yessine-portfolio**](https://github.com/yessine18/yessine-portfolio) — Personal e-portfolio website · `CSS`
+- [**yessine18.github.io**](https://github.com/yessine18/yessine18.github.io) — GitHub Pages website repository
+
+### 🧪 Testing & Developer Practice
+
+- [**PlayWright-test**](https://github.com/yessine18/PlayWright-test) — Node.js application with Playwright smoke, integration, visual-regression, accessibility, and security tests, automated with GitHub Actions · `JavaScript`
+- [**skills-introduction-to-github**](https://github.com/yessine18/skills-introduction-to-github) — GitHub learning exercises and practice repository
+
+### 🎨 Creative Tools & Interactive Projects
+
+- [**creative-portfolio**](https://github.com/yessine18/creative-portfolio) — Graphic design and video-editing freelancing portfolio · `HTML`
+- [**AlbumCraft**](https://github.com/yessine18/AlbumCraft) — Python utility that applies transparent frames to batches of JPEG images based on aspect ratio · `Python`
+- [**flappy_bird**](https://github.com/yessine18/flappy_bird) — Browser game project · `JavaScript`
+- [**countdown**](https://github.com/yessine18/countdown) — Countdown web experience · `HTML`
+
+### 🛰️ Research, IoT & Environmental Projects
+
+- [**TerraNova-2056**](https://github.com/yessine18/TerraNova-2056) — Satellite-imagery and CanSat research project for environmental monitoring
+- [**AESSENIS-terranova**](https://github.com/yessine18/AESSENIS-terranova) — TerraNova-related project repository
+
+### 🗂️ Profile Hub
+
+- [**yessine18**](https://github.com/yessine18/yessine18) — This profile README and project hub
+
+---
+
+## 🌟 Featured Projects
+
+### 🤖 Autonomous Helpdesk Engine (Outlook-to-DevOps Automation)
+My graduation project at Inetum Tunisie: an agentic system that connects Outlook support messages with intelligent analysis and Azure DevOps processes. It automates IT ticket resolution with LangGraph workflows and Graph RAG, secured with Microsoft Entra ID (OAuth 2.0) and RLS-protected PostgreSQL, and integrated with Azure DevOps and Teams webhooks.
+
+`.NET` `C#` `Python` `LangGraph` `Microsoft Graph` `Entra ID` `Azure DevOps` `Neo4j` `PostgreSQL`
+
+### 🧠 Brain Tumor Multi-Agent System
+A computer-vision and agentic-AI project exploring medical image analysis, explainability, and knowledge-graph context.
+
+`Python` `TensorFlow` `Neo4j` `LangChain`
+
+### 🧾 AI Receipt Processing Automation
+A self-hosted pipeline for extracting structured receipt information from images and connecting the results to storage, databases, and messaging workflows.
+
+`Python` `Tesseract OCR` `PostgreSQL` `Discord`
+
+### 👥 Responsible AI Recruitment Platform (ATS)
+Built for the ZEN GROUP technical test (Sep 2026): a full-stack applicant tracking system using Gemini AI for factual, citation-backed CV parsing, with automated interview scheduling, Google Calendar sync, and feedback SLA alerts through n8n webhooks.
+
+`Next.js 14` `TypeScript` `PostgreSQL` `Prisma` `Google Gemini` `n8n` `Docker`
+
+### 🌍 Intelligent Charity Actions Platform
+A hackathon project at Inetum Tunisie that lets employees discover and register for solidarity actions aligned with the UN's 17 Sustainable Development Goals, with data models across Neo4j and Supabase.
+
+`Angular` `TypeScript` `FastAPI` `Neo4j` `Supabase`
+
+### ⚡ AI-Powered Energy Consumption Prediction Platform
+A full-stack energy forecasting application (ENIS, Dec 2024 – May 2025) with MLOps pipelines for automated model deployment and anomaly detection.
+
+`Django` `React` `MongoDB` `Scikit-learn` `TensorFlow` `MLflow` `Kubeflow`
+
+### 🔀 Hybrid AI Agent Orchestration Platform
+FastAPI backend services for a workflow automation and orchestration platform, built during my internship at Assistance Plus, with SQL data pipelines and real-time monitoring.
+
+`Python` `FastAPI` `SQL` `ChromaDB` `n8n`
+
+### 🧱 Microservices Platform
+A distributed architecture with an Angular frontend and a Java backend using Spring Boot, Spring Cloud Gateway, and Eureka for service discovery.
+
+`Angular` `Java` `Spring Boot` `Spring Cloud Gateway` `Eureka`
+
+### 🧪 End-to-End Test Automation Suite
+A test automation suite covering E2E, integration, accessibility, and security testing, run through GitHub Actions.
+
+`JavaScript` `Node.js` `Express.js` `Playwright` `GitHub Actions`
+
+### 🖼️ AlbumCraft
+A lightweight image-processing utility for applying transparent frames to batches of portrait and landscape JPEG images.
+
+`Python` `Pillow`
+
+---
+
+## 🛠️ Skills & Technologies
+
+**Languages**  
+`Python` `TypeScript` `JavaScript` `Java` `C#` `PHP` `SQL` `HTML` `CSS`
+
+**AI / Data**  
+`LangGraph` `LangChain` `RAG` `GraphRAG` `Google Generative AI` `Neo4j` `ChromaDB` `TensorFlow` `scikit-learn` `MLflow` `Kubeflow` `OCR`
+
+**Microsoft Ecosystem**  
+`Microsoft Graph API` `Microsoft Entra ID (OAuth 2.0)` `Azure DevOps (CI/CD)` `Microsoft Teams Webhooks` `.NET`
+
+**Web & Backend**  
+`Angular` `Spring (Microservices)` `Node.js` `React` `Next.js` `Django` `FastAPI` `Flask` `REST APIs` `Uvicorn`
+
+**Databases**  
+`PostgreSQL` `MySQL` `MongoDB` `Neo4j` `ChromaDB` `Supabase` `Prisma`
+
+**Automation & Quality**  
+`n8n` `Docker` `Git` `GitHub Actions` `Playwright` `End-to-End Testing` `Code Reviews`
+
+**Creative Technology**  
+`Graphic Design` `Video Editing` `Image Processing` `Interactive Web Experiences`
+
+**Languages Spoken**  
+🇬🇧 English · 🇫🇷 French (bilingual) · 🇹🇳 Arabic (native)
+
+---
+
+## 📊 GitHub Analytics
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=2200&pause=700&color=7DD3FC&center=true&vCenter=true&width=650&lines=Autonomous+AI+systems;Knowledge-aware+applications;Intelligent+automation;Production-ready+software;Creative+digital+experiences" />
+<img src="https://github-readme-stats.vercel.app/api?username=yessine18&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9&rank_icon=github" height="170">
 
-</div>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yessine18&layout=compact&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9" height="170">
 
 <br>
 
-### ◈ AI SYSTEMS
-
-`Agentic AI` · `LLMs` · `RAG` · `GraphRAG` · `Multi-Agent`
-
-Designing systems where models can **reason, retrieve information, use tools and execute workflows**.
-
-### ◈ SOFTWARE
-
-`Angular` · `React` · `Next.js` · `.NET` · `Spring` · `FastAPI`
-
-Building the application layer around intelligent systems — APIs, web applications, services and integrations.
-
-### ◈ AUTOMATION
-
-`Microsoft Graph` · `Entra ID` · `Azure DevOps` · `Teams` · `n8n`
-
-Connecting systems together so repetitive workflows become **software instead of manual work**.
-
-### ◈ CREATIVE TECHNOLOGY
-
-`Design` · `Motion` · `Video` · `Image Processing` · `Interactive Web`
-
-Because software doesn't always have to look like software.
-
----
-
-# `02` · SELECTED SYSTEMS
-
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=2600&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=From+idea+%E2%86%92+architecture+%E2%86%92+working+system;Selected+projects+%26+engineering+work" />
-
-</div>
-
-<br>
-
-## `01` — AUTONOMOUS HELPDESK ENGINE
-
-**AI-powered IT incident resolution · Inetum Tunisie**
-
-A system designed to automatically understand and resolve Level-1 IT incidents.
-
-```text
-┌──────────────┐
-│ Outlook /    │
-│ Azure DevOps │
-└──────┬───────┘
-       │
-       ▼
-┌──────────────┐
-│   AI Agent   │◄──────────────┐
-└──────┬───────┘               │
-       │                       │
-       ├──────► Tools          │
-       │                       │
-       ├──────► Knowledge ─────┘
-       │
-       ▼
-┌──────────────┐
-│  Resolution  │
-└──────┬───────┘
-       │
-       ▼
- Secure Action
-```
-
-`C#` `ASP.NET` `Python` `LangGraph` `GraphRAG`
-`Microsoft Graph` `Entra ID` `PostgreSQL` `Azure DevOps` `Teams`
-
----
-
-## `02` — BRAIN TUMOR MULTI-AGENT
-
-**Computer Vision × Agentic AI**
-
-A research-oriented system combining medical image analysis with specialized AI agents.
-
-```text
-IMAGE
-  │
-  ▼
-VISION
-  │
-  ▼
-┌───────────────┐
-│ AGENT SYSTEM  │
-│               │
-│ Analysis      │
-│ Reasoning     │
-│ Validation    │
-└───────┬───────┘
-        │
-        ▼
-   RESULT
-```
-
-`Computer Vision` · `AI Agents` · `Image Analysis` · `LLMs`
-
----
-
-## `03` — AI RECEIPT PROCESSING
-
-**Unstructured documents → structured intelligence**
-
-```text
-RECEIPT
-   │
-   ▼
-OCR / VISION
-   │
-   ▼
-EXTRACTION
-   │
-   ▼
-VALIDATION
-   │
-   ▼
-STRUCTURED DATA
-   │
-   ▼
-AUTOMATION
-```
-
-`OCR` · `Image Processing` · `LLMs` · `Automation`
-
----
-
-## `04` — RESPONSIBLE AI RECRUITMENT
-
-**ZEN GROUP · Technical Project · 2026**
-
-A recruitment platform combining AI-assisted CV analysis, candidate evaluation and workflow automation.
-
-`Next.js` `TypeScript` `PostgreSQL` `Prisma` `Gemini` `n8n` `Docker`
-
-**→ Citation-backed CV parsing**
-**→ Interview scheduling**
-**→ Google Calendar integration**
-**→ Feedback SLA alerts**
-
----
-
-# `03` · THE MICROSOFT × AI LAYER
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=dotnet,azure,postgres,docker&perline=4" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=yessine18&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF">
 
 <br><br>
 
-<img src="https://img.shields.io/badge/MICROSOFT%20GRAPH-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" />
-<img src="https://img.shields.io/badge/ENTRA%20ID-5E5CE6?style=for-the-badge&logo=microsoft&logoColor=white" />
-<img src="https://img.shields.io/badge/AZURE%20DEVOPS-0078D4?style=for-the-badge&logo=azuredevops&logoColor=white" />
-
-</div>
-
-<br>
-
-One of the strongest patterns in my work is connecting **enterprise systems with AI**.
-
-```text
-        MICROSOFT ECOSYSTEM
-                 │
-     ┌───────────┼───────────┐
-     ▼           ▼           ▼
-  OUTLOOK      TEAMS      DEVOPS
-     │           │           │
-     └───────────┼───────────┘
-                 ▼
-          MICROSOFT GRAPH
-                 │
-                 ▼
-            ┌─────────┐
-            │ AI AGENT│
-            └────┬────┘
-                 │
-          ┌──────┴──────┐
-          ▼             ▼
-       LANGGRAPH     GRAPHRAG
-          │             │
-          └──────┬──────┘
-                 ▼
-        SECURE AUTOMATION
-```
-
----
-
-# `04` · EXPERIENCE
-
-### `INETUM TUNISIE`
-
-**Graduation Project Engineer / Technical Consultant — CRM**
-
-`FEB 2026 → JUN 2026`
-
-**Autonomous Helpdesk Engine**
-
-> Built an AI-driven incident automation system combining enterprise integrations, agent orchestration and knowledge retrieval.
-
-**Core engineering**
-
-`C#` · `.NET` · `Python` · `LangGraph` · `GraphRAG`
-`Microsoft Graph` · `Entra ID` · `PostgreSQL` · `Azure DevOps`
-
----
-
-### `ASSISTANCE PLUS — SFAX`
-
-**Software / AI Engineering Intern**
-
-`JUN 2025 → AUG 2025`
-
-**Hybrid AI Agent Orchestration Platform**
-
-`FastAPI` · `SQL` · `ChromaDB` · `n8n` · Monitoring
-
----
-
-# `05` · STACK
-
-<div align="center">
-
-### LANGUAGES
-
-<img src="https://skillicons.dev/icons?i=python,cs,java,typescript,javascript,php,html,css" />
-
-<br><br>
-
-### AI / DATA
-
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow" />
-
-<br>
-
-`LangGraph` · `LangChain` · `RAG` · `GraphRAG` · `Neo4j` · `ChromaDB`
-`scikit-learn` · `MLflow` · `Kubeflow` · `OCR`
-
-<br><br>
-
-### WEB / BACKEND
-
-<img src="https://skillicons.dev/icons?i=angular,react,nextjs,spring,django,fastapi,nodejs,dotnet" />
-
-<br><br>
-
-### INFRASTRUCTURE
-
-<img src="https://skillicons.dev/icons?i=docker,githubactions,git,azure,postgres,mongodb" />
+<img src="https://raw.githubusercontent.com/yessine18/yessine18/output/github-contribution-grid-snake.svg" alt="Contribution Snake">
 
 </div>
 
 ---
 
-# `06` · ENGINEERING × CREATIVITY
+## 🏆 Highlights
+
+- ✔ **Microsoft Certified** — Agentic AI Business Solutions Architect (AB-100)
+- ✔ **Microsoft Applied Skills** — Microsoft Entra identities and access
+- ✔ **Microsoft Applied Skills** — Autonomous agent features
+- 🎓 **Computer Science Engineering Graduate** — ENIS, June 2026
+- 🤝 **Graduation Project at Inetum Tunisie** — Autonomous Helpdesk Engine (Feb – Jun 2026)
+- 🥇 **TSYP Best Video Award** — 2024
+- 🏆 **Best IEEE Technical Chapter** — Tunisia Section — 2024
+- 🤖 **Autonomous Robot Competition Winner** — 2024
+- 👨‍💼 **Technical Team Lead** — IEEE Tunisian Engineering Congress Week 1.0
+- 📢 **Media and content roles** — PYANGO, IEEE ENIS, TSYP, and ENIS Forum
+
+---
+
+## 📫 Connect
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=17&duration=2400&pause=900&color=00D9FF&center=true&vCenter=true&width=650&lines=Code+is+my+engineering+language.;Visuals+are+my+creative+language.;I+like+working+where+they+meet." />
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0B1120?style=for-the-badge&logo=linkedin&logoColor=00D9FF)](https://www.linkedin.com/in/yessine-fakhfakh-470145298/)
+[![Email](https://img.shields.io/badge/Email-0B1120?style=for-the-badge&logo=gmail&logoColor=00D9FF)](mailto:yessine.fakhfakh@enis.tn)
+[![Portfolio](https://img.shields.io/badge/Portfolio-0B1120?style=for-the-badge&logo=readdotcv&logoColor=00D9FF)](https://yessine18.github.io/yessine-portfolio)
 
-</div>
-
-<br>
-
-My engineering work is about **systems, intelligence and automation**.
-
-My creative work is about **visual communication, motion and digital experiences**.
-
-Together, they let me approach products from both sides:
-
-```text
-       LOGIC                         VISUAL
-         │                              │
-         │        ┌──────────┐          │
-         └───────►│   YF     │◄─────────┘
-                  └────┬─────┘
-                       │
-                DIGITAL PRODUCTS
-                       │
-          ┌────────────┴────────────┐
-          ▼                         ▼
-       INTELLIGENT               MEMORABLE
-        SYSTEMS                 EXPERIENCES
-```
-
-**Creative background**
-
-`Graphic Design` · `Video Editing` · `Motion Graphics`
-`Image Processing` · `Interactive Web` · `Digital Experiences`
-
----
-
-# `07` · CREDENTIALS
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/MICROSOFT%20CERTIFIED-AB--100-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" />
-
-<br><br>
-
-**Agentic AI Business Solutions Architect**
-
-<br><br>
-
-<img src="https://img.shields.io/badge/APPLIED%20SKILLS-Entra%20Identity%20%26%20Access-5E5CE6?style=for-the-badge&logo=microsoft&logoColor=white" />
-
-<img src="https://img.shields.io/badge/APPLIED%20SKILLS-Autonomous%20Agent%20Features-512BD4?style=for-the-badge&logo=microsoft&logoColor=white" />
-
-</div>
-
----
-
-# `08` · EDUCATION
-
-**École Nationale d'Ingénieurs de Sfax**
-
-`Computer Science Engineering · 2023 → 2026`
-
-**Graduated June 2026**
-
-<br>
-
-**Faculté des Sciences de Sfax**
-
-`Pre-Engineering — Physics & Mathematics · 2021 → 2023`
-
-Top 40% in the national engineering entrance examination.
-
----
-
-# `09` · ACTIVITY
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=yessine18&bg_color=0D1117&color=7DD3FC&line=00D9FF&point=FFFFFF&area=true&hide_border=true" width="95%"/>
-
-<br><br>
-
-<img src="https://github-readme-stats.vercel.app/api?username=yessine18&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9&rank_icon=github" height="170"/>
-
-  
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=yessine18&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF" height="170"/>
-
-<br><br>
-
-<img src="https://raw.githubusercontent.com/yessine18/yessine18/output/github-contribution-grid-snake-dark.svg" width="90%"/>
-
-</div>
-
----
-
-# `10` · MORE
-
-<details>
-<summary><b>AI / Machine Learning</b></summary>
-
-<br>
-
-[Brain Tumor Multi-Agent](https://github.com/yessine18/Brain-tumor-Multi-Agent) ·
-[Outlook TFS Automation](https://github.com/yessine18/Outlook-TFS-automation) ·
-[Chatbot RAG](https://github.com/yessine18/Chatbot-RAG) ·
-[AI Receipt Processing](https://github.com/yessine18/AI-Receipt-Processing-Automation) ·
-[Motivation Letter Generator](https://github.com/yessine18/Motivation-Letter-email-Generator) ·
-[ML Churn Analysis](https://github.com/yessine18/ML-Analyse-de-Churn)
-
-</details>
-
-<details>
-<summary><b>Web / Software</b></summary>
-
-<br>
-
-[Angular](https://github.com/yessine18/Angular) ·
-[Spring](https://github.com/yessine18/Spring) ·
-[Adaptive Backend](https://github.com/yessine18/adaptive-backend) ·
-[TecWeek](https://github.com/yessine18/TecWeek) ·
-[Hackathon Inetum](https://github.com/yessine18/Hackathon-Inetum) ·
-[PHP Project](https://github.com/yessine18/PHP-project)
-
-</details>
-
-<details>
-<summary><b>Testing / Creative / Experimental</b></summary>
-
-<br>
-
-[Playwright Test](https://github.com/yessine18/PlayWright-test) ·
-[Creative Portfolio](https://github.com/yessine18/creative-portfolio) ·
-[AlbumCraft](https://github.com/yessine18/AlbumCraft) ·
-[Flappy Bird](https://github.com/yessine18/flappy_bird) ·
-[Countdown](https://github.com/yessine18/countdown)
-
-</details>
-
----
-
-<div align="center">
-
-<br>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2600&pause=1000&color=00D9FF&center=true&vCenter=true&width=650&lines=Thanks+for+stopping+by.;Let's+build+something+intelligent.;Let's+make+it+look+good+too." />
-
-<br><br>
-
-<a href="https://linkedin.com/in/yessine-fakhfakh">
-<img src="https://img.shields.io/badge/CONNECT-00D9FF?style=for-the-badge&logo=linkedin&logoColor=0D1117" />
-</a>
-
-<br><br>
-
-<sub>AI Engineer · Full-Stack Developer · Creative Technologist</sub>
+*Building intelligent systems and creative products that solve real problems.*
 
 </div>
