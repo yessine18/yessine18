@@ -224,23 +224,24 @@ A lightweight image-processing utility for applying transparent frames to batche
 
 ---
 
-## 📊 GitHub Analytics
+# <img src="https://img.icons8.com/fluency/48/000000/github.png" width="30"/> GitHub Activity
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=yessine18&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9&rank_icon=github" height="170">
+<img src="https://github-readme-stats.vercel.app/api?username=yessine18&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github&bg_color=07111C&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9" height="175"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yessine18&layout=compact&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9" height="170">
-
-<br>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=yessine18&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yessine18&layout=compact&hide_border=true&langs_count=8&bg_color=07111C&title_color=00D9FF&text_color=C9D1D9" height="175"/>
 
 <br><br>
 
-<img src="https://raw.githubusercontent.com/yessine18/yessine18/output/github-contribution-grid-snake.svg" alt="Contribution Snake">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=yessine18&theme=transparent&hide_border=true&background=07111C&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF&sideLabels=9AA7B5&dates=687586" />
+
+<br><br>
+
+<img src="https://raw.githubusercontent.com/yessine18/yessine18/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake"/>
 
 </div>
+
 
 ---
 
