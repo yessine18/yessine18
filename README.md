@@ -231,8 +231,6 @@ A lightweight image-processing utility for applying transparent frames to batche
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=yessine18&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
 
-<img src="https://ghchart.rshah.org/00D9FF/yessine18" alt="Contribution Graph" />
-
 <img src="https://raw.githubusercontent.com/yessine18/yessine18/output/github-contribution-grid-snake.svg" alt="Contribution Snake" />
 
 </div>
