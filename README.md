@@ -1,5 +1,4 @@
-# Yessine Fakhfakh
-
+<h1 align="center">Yessine FAKHFAKH</h1>
 <div align="center">
 
 <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=21&duration=3000&pause=1200&color=00D9FF&center=true&vCenter=true&width=820&lines=Agentic+AI+Engineer;Full-Stack+Developer;Automation+%26+Machine+Learning+Builder;Creative+Technologist" alt="Typing animation" />
