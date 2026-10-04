@@ -145,20 +145,15 @@ This profile is maintained from my complete public repository portfolio.
 
 ## 🌟 Featured Projects
 
-### 🤖 Autonomous Helpdesk Engine
-My graduation project at Inetum Tunisie: an agentic system that automates Outlook-based IT ticket resolution with LangGraph workflows and Graph RAG, secured with Microsoft Entra ID (OAuth 2.0) and RLS-protected PostgreSQL, and integrated with Azure DevOps and Teams webhooks.
+### 🤖 Autonomous Helpdesk Engine (Outlook-to-DevOps Automation)
+My graduation project at Inetum Tunisie: an agentic system that connects Outlook support messages with intelligent analysis and Azure DevOps processes. It automates IT ticket resolution with LangGraph workflows and Graph RAG, secured with Microsoft Entra ID (OAuth 2.0) and RLS-protected PostgreSQL, and integrated with Azure DevOps and Teams webhooks.
 
-`.NET` `C#` `Python` `LangGraph` `Microsoft Graph` `Entra ID` `Neo4j` `PostgreSQL`
+`.NET` `C#` `Python` `LangGraph` `Microsoft Graph` `Entra ID` `Azure DevOps` `Neo4j` `PostgreSQL`
 
 ### 🧠 Brain Tumor Multi-Agent System
 A computer-vision and agentic-AI project exploring medical image analysis, explainability, and knowledge-graph context.
 
 `Python` `TensorFlow` `Neo4j` `LangChain`
-
-### 📧 Outlook-to-DevOps Automation
-An enterprise workflow concept that connects Outlook support messages with intelligent analysis and Azure DevOps processes.
-
-`C#` `Python` `Microsoft Graph` `Azure DevOps`
 
 ### 🧾 AI Receipt Processing Automation
 A self-hosted pipeline for extracting structured receipt information from images and connecting the results to storage, databases, and messaging workflows.
@@ -236,7 +231,7 @@ A lightweight image-processing utility for applying transparent frames to batche
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=yessine18&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=yessine18&theme=tokyo-night&hide_border=true&bg_color=0D1117" alt="Contribution Graph" />
+<img src="https://ghchart.rshah.org/00D9FF/yessine18" alt="Contribution Graph" />
 
 <img src="https://raw.githubusercontent.com/yessine18/yessine18/output/github-contribution-grid-snake.svg" alt="Contribution Snake" />
 
@@ -268,7 +263,5 @@ A lightweight image-processing utility for applying transparent frames to batche
 [![Portfolio](https://img.shields.io/badge/Portfolio-0B1120?style=for-the-badge&logo=readdotcv&logoColor=00D9FF)](https://yessine18.github.io/yessine-portfolio)
 
 *Building intelligent systems and creative products that solve real problems.*
-
-![Profile Views](https://komarev.com/ghpvc/?username=yessine18&color=00D9FF&style=flat-square&label=Profile+Views)
 
 </div>
